@@ -6,13 +6,14 @@ import type {
 	ModifierEvent,
 } from "renderer/lib/clickPolicy";
 import { pullRequestRefFromBareUrl } from "renderer/lib/github/pullRequestRef";
-import { parseSupersetPageUrl } from "renderer/lib/parseSupersetPageUrl";
+import { parseSupersetAppLink } from "renderer/lib/supersetAppLink";
 import { electronTrpcClient } from "renderer/lib/trpc-client";
 import type { RightPaneLinkTarget } from "renderer/routes/_authenticated/_dashboard/v2-workspace/$workspaceId/providers/RightPaneLinkTargetProvider";
 import type {
 	OpenFile,
 	PaneViewerData,
 } from "renderer/routes/_authenticated/_dashboard/v2-workspace/$workspaceId/types";
+import { openEnvironmentPaneInStore } from "renderer/routes/_authenticated/_dashboard/v2-workspace/$workspaceId/utils/openEnvironmentPaneInStore";
 import { openPagePaneInStore } from "renderer/routes/_authenticated/_dashboard/v2-workspace/$workspaceId/utils/openPagePaneInStore";
 import { openPullRequestPaneInStore } from "renderer/routes/_authenticated/_dashboard/v2-workspace/$workspaceId/utils/openPullRequestPaneInStore";
 import { openUrlInRightPane } from "renderer/routes/_authenticated/_dashboard/v2-workspace/$workspaceId/utils/openUrlInRightPane";
@@ -58,12 +59,23 @@ export function runUrlLinkAction(
 		});
 		return;
 	}
-	const pageSlug = parseSupersetPageUrl(url, env.NEXT_PUBLIC_WEB_URL);
+	const appLink = parseSupersetAppLink(url, env.NEXT_PUBLIC_WEB_URL);
+	const pageSlug = appLink?.kind === "page" ? appLink.slug : null;
+	const environmentId =
+		appLink?.kind === "environment" ? appLink.environmentId : null;
 	const pullRequest = pullRequestRefFromBareUrl(url);
 	if (deps.rightPane) {
 		deps.rightPane.reveal();
 		if (pageSlug) {
 			openPagePaneInStore(deps.rightPane.store, { slug: pageSlug }, "tab");
+			return;
+		}
+		if (environmentId) {
+			openEnvironmentPaneInStore(
+				deps.rightPane.store,
+				{ environmentId },
+				"tab",
+			);
 			return;
 		}
 		if (pullRequest) {
@@ -77,6 +89,14 @@ export function runUrlLinkAction(
 		openPagePaneInStore(
 			deps.store,
 			{ slug: pageSlug },
+			action === "newTab" ? "tab" : "split",
+		);
+		return;
+	}
+	if (environmentId) {
+		openEnvironmentPaneInStore(
+			deps.store,
+			{ environmentId },
 			action === "newTab" ? "tab" : "split",
 		);
 		return;
