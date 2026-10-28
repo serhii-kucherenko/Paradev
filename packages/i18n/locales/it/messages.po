@@ -12502,9 +12502,6 @@ msgstr "Online ora"
 msgid "Only {organizationName} admins can invite new people"
 msgstr "Solo gli amministratori di {organizationName} possono invitare nuove persone"
 
-msgid "Only a ready workspace can become an environment"
-msgstr "Solo un workspace pronto può diventare un ambiente"
-
 msgid "Only an organization owner can change the plan. Ask yours to upgrade."
 msgstr "Solo un proprietario dell'organizzazione può cambiare piano. Chiedi al tuo di eseguire l'upgrade."
 
@@ -12588,9 +12585,6 @@ msgstr "Solo il proprietario o un proprietario dell'organizzazione può eliminar
 
 msgid "Only the people listed above can open it"
 msgstr "Solo le persone elencate sopra possono aprirlo"
-
-msgid "Only the person who created this environment can make it personal"
-msgstr "Solo chi ha creato questo ambiente può renderlo personale"
 
 msgid "Only the person who created this page can change it"
 msgstr "Solo chi ha creato questa pagina può modificarla"
@@ -18324,9 +18318,6 @@ msgstr "Compare il dispatcher"
 msgid "The endpoint must use https."
 msgstr "L'endpoint deve usare https."
 
-msgid "The environment changed while this workspace was being saved; run it again"
-msgstr "L'ambiente è cambiato mentre questo workspace veniva salvato; riprova"
-
 msgid "The environment this automation starts cloud workspaces from was archived or has no repositories. Pick another environment in the automation's settings."
 msgstr "L'ambiente da cui questa automazione avvia i workspace cloud è stato archiviato o non ha repository. Scegli un altro ambiente nelle impostazioni dell'automazione."
 
@@ -18573,9 +18564,6 @@ msgstr "Il turno non è riuscito"
 
 msgid "The very beginning"
 msgstr "L'inizio"
-
-msgid "The workspace and the environment are in different organizations"
-msgstr "Il workspace e l'ambiente appartengono a organizzazioni diverse"
 
 msgid "The workspace is not ready yet. Try again."
 msgstr "Il workspace non è ancora pronto. Riprova."

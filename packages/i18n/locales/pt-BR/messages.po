@@ -12502,9 +12502,6 @@ msgstr "Online agora"
 msgid "Only {organizationName} admins can invite new people"
 msgstr "Somente administradores de {organizationName} podem convidar novas pessoas"
 
-msgid "Only a ready workspace can become an environment"
-msgstr "Somente uma área de trabalho pronta pode se tornar um ambiente"
-
 msgid "Only an organization owner can change the plan. Ask yours to upgrade."
 msgstr "Só um proprietário da organização pode mudar o plano. Peça ao seu para fazer o upgrade."
 
@@ -12588,9 +12585,6 @@ msgstr "Só o proprietário ou um proprietário da organização pode excluir es
 
 msgid "Only the people listed above can open it"
 msgstr "Somente as pessoas listadas acima podem abrir"
-
-msgid "Only the person who created this environment can make it personal"
-msgstr "Somente quem criou este ambiente pode torná-lo pessoal"
 
 msgid "Only the person who created this page can change it"
 msgstr "Só quem criou esta página pode alterá-la"
@@ -18324,9 +18318,6 @@ msgstr "Surge o despachante"
 msgid "The endpoint must use https."
 msgstr "O endpoint deve usar https."
 
-msgid "The environment changed while this workspace was being saved; run it again"
-msgstr "O ambiente mudou enquanto esta área de trabalho era salva; execute novamente"
-
 msgid "The environment this automation starts cloud workspaces from was archived or has no repositories. Pick another environment in the automation's settings."
 msgstr "O ambiente a partir do qual esta automação inicia áreas de trabalho na nuvem foi arquivado ou não tem repositórios. Escolha outro ambiente nas configurações da automação."
 
@@ -18573,9 +18564,6 @@ msgstr "O turno falhou"
 
 msgid "The very beginning"
 msgstr "O início"
-
-msgid "The workspace and the environment are in different organizations"
-msgstr "A área de trabalho e o ambiente pertencem a organizações diferentes"
 
 msgid "The workspace is not ready yet. Try again."
 msgstr "A área de trabalho ainda não está pronta. Tente de novo."

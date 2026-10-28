@@ -12502,9 +12502,6 @@ msgstr "Teraz online"
 msgid "Only {organizationName} admins can invite new people"
 msgstr "Tylko administratorzy {organizationName} mogą zapraszać nowe osoby"
 
-msgid "Only a ready workspace can become an environment"
-msgstr "Środowiskiem może stać się tylko gotowy obszar roboczy"
-
 msgid "Only an organization owner can change the plan. Ask yours to upgrade."
 msgstr "Tylko właściciel organizacji może zmienić plan. Poproś go o zmianę na Pro."
 
@@ -12588,9 +12585,6 @@ msgstr "Tylko właściciel lub właściciel organizacji może usunąć tę autom
 
 msgid "Only the people listed above can open it"
 msgstr "Otworzyć to mogą tylko osoby wymienione powyżej"
-
-msgid "Only the person who created this environment can make it personal"
-msgstr "Tylko osoba, która utworzyła to środowisko, może uczynić je osobistym"
 
 msgid "Only the person who created this page can change it"
 msgstr "Tylko osoba, która utworzyła tę stronę, może ją zmienić"
@@ -18324,9 +18318,6 @@ msgstr "Pojawia się dyspozytor"
 msgid "The endpoint must use https."
 msgstr "Punkt końcowy musi używać https."
 
-msgid "The environment changed while this workspace was being saved; run it again"
-msgstr "Środowisko zmieniło się podczas zapisywania tego obszaru roboczego; uruchom to ponownie"
-
 msgid "The environment this automation starts cloud workspaces from was archived or has no repositories. Pick another environment in the automation's settings."
 msgstr "Środowisko, z którego ta automatyzacja uruchamia obszary robocze w chmurze, zostało zarchiwizowane lub nie ma repozytoriów. Wybierz inne środowisko w ustawieniach automatyzacji."
 
@@ -18573,9 +18564,6 @@ msgstr "Tura nie powiodła się"
 
 msgid "The very beginning"
 msgstr "Sam początek"
-
-msgid "The workspace and the environment are in different organizations"
-msgstr "Obszar roboczy i środowisko należą do różnych organizacji"
 
 msgid "The workspace is not ready yet. Try again."
 msgstr "Obszar roboczy nie jest jeszcze gotowy. Spróbuj ponownie."

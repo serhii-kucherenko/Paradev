@@ -12502,9 +12502,6 @@ msgstr "Online Sekarang"
 msgid "Only {organizationName} admins can invite new people"
 msgstr "Hanya admin {organizationName} yang dapat mengundang orang baru"
 
-msgid "Only a ready workspace can become an environment"
-msgstr "Hanya workspace yang siap yang bisa menjadi environment"
-
 msgid "Only an organization owner can change the plan. Ask yours to upgrade."
 msgstr "Hanya pemilik organisasi yang bisa mengubah paket. Minta pemilik Anda untuk upgrade."
 
@@ -12588,9 +12585,6 @@ msgstr "Hanya pemilik atau pemilik organisasi yang bisa menghapus otomatisasi in
 
 msgid "Only the people listed above can open it"
 msgstr "Hanya orang yang tercantum di atas yang dapat membukanya"
-
-msgid "Only the person who created this environment can make it personal"
-msgstr "Hanya orang yang membuat environment ini yang bisa menjadikannya pribadi"
 
 msgid "Only the person who created this page can change it"
 msgstr "Hanya orang yang membuat halaman ini yang bisa mengubahnya"
@@ -18324,9 +18318,6 @@ msgstr "Munculnya sang pengatur"
 msgid "The endpoint must use https."
 msgstr "Endpoint harus menggunakan https."
 
-msgid "The environment changed while this workspace was being saved; run it again"
-msgstr "Environment berubah saat workspace ini sedang disimpan; jalankan lagi"
-
 msgid "The environment this automation starts cloud workspaces from was archived or has no repositories. Pick another environment in the automation's settings."
 msgstr "Environment yang digunakan otomatisasi ini untuk memulai workspace cloud telah diarsipkan atau tidak memiliki repositori. Pilih environment lain di pengaturan otomatisasi."
 
@@ -18573,9 +18564,6 @@ msgstr "Giliran gagal"
 
 msgid "The very beginning"
 msgstr "Paling awal"
-
-msgid "The workspace and the environment are in different organizations"
-msgstr "Workspace dan environment berada di organisasi yang berbeda"
 
 msgid "The workspace is not ready yet. Try again."
 msgstr "Workspace belum siap. Coba lagi."

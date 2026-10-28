@@ -12502,9 +12502,6 @@ msgstr "Şu an çevrimiçi"
 msgid "Only {organizationName} admins can invite new people"
 msgstr "Yeni kişileri yalnızca {organizationName} yöneticileri davet edebilir"
 
-msgid "Only a ready workspace can become an environment"
-msgstr "Yalnızca hazır bir çalışma alanı ortama dönüşebilir"
-
 msgid "Only an organization owner can change the plan. Ask yours to upgrade."
 msgstr "Planı yalnızca kuruluş sahibi değiştirebilir. Yükseltme için sahibinize başvurun."
 
@@ -12588,9 +12585,6 @@ msgstr "Bu otomasyonu yalnızca sahibi veya bir kuruluş sahibi silebilir"
 
 msgid "Only the people listed above can open it"
 msgstr "Yalnızca yukarıda listelenen kişiler açabilir"
-
-msgid "Only the person who created this environment can make it personal"
-msgstr "Bu ortamı yalnızca onu oluşturan kişi kişisel yapabilir"
 
 msgid "Only the person who created this page can change it"
 msgstr "Bu sayfayı yalnızca oluşturan kişi değiştirebilir"
@@ -18324,9 +18318,6 @@ msgstr "Dağıtıcı ortaya çıkar"
 msgid "The endpoint must use https."
 msgstr "Uç nokta https kullanmalıdır."
 
-msgid "The environment changed while this workspace was being saved; run it again"
-msgstr "Bu çalışma alanı kaydedilirken ortam değişti; yeniden çalıştırın"
-
 msgid "The environment this automation starts cloud workspaces from was archived or has no repositories. Pick another environment in the automation's settings."
 msgstr "Bu otomasyonun bulut çalışma alanlarını başlattığı ortam arşivlendi veya hiç deposu yok. Otomasyonun ayarlarından başka bir ortam seçin."
 
@@ -18573,9 +18564,6 @@ msgstr "Tur başarısız oldu"
 
 msgid "The very beginning"
 msgstr "En başı"
-
-msgid "The workspace and the environment are in different organizations"
-msgstr "Çalışma alanı ve ortam farklı kuruluşlara ait"
 
 msgid "The workspace is not ready yet. Try again."
 msgstr "Çalışma alanı henüz hazır değil. Yeniden deneyin."

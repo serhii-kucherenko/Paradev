@@ -12502,9 +12502,6 @@ msgstr "現在オンライン"
 msgid "Only {organizationName} admins can invite new people"
 msgstr "新しいユーザーを招待できるのは{organizationName}の管理者のみです"
 
-msgid "Only a ready workspace can become an environment"
-msgstr "環境にできるのは準備完了のワークスペースだけです"
-
 msgid "Only an organization owner can change the plan. Ask yours to upgrade."
 msgstr "プランを変更できるのは組織のオーナーのみです。オーナーにアップグレードを依頼してください。"
 
@@ -12588,9 +12585,6 @@ msgstr "このオートメーションを削除できるのは所有者または
 
 msgid "Only the people listed above can open it"
 msgstr "上記のメンバーだけが開けます"
-
-msgid "Only the person who created this environment can make it personal"
-msgstr "この環境を個人用にできるのは作成者だけです"
 
 msgid "Only the person who created this page can change it"
 msgstr "このページを変更できるのは作成者のみです"
@@ -18324,9 +18318,6 @@ msgstr "ディスパッチャーの登場"
 msgid "The endpoint must use https."
 msgstr "エンドポイントは https を使用する必要があります。"
 
-msgid "The environment changed while this workspace was being saved; run it again"
-msgstr "このワークスペースの保存中に環境が変更されました。もう一度実行してください"
-
 msgid "The environment this automation starts cloud workspaces from was archived or has no repositories. Pick another environment in the automation's settings."
 msgstr "このオートメーションがクラウドワークスペースを起動する環境が、アーカイブされたかリポジトリがありません。オートメーションの設定で別の環境を選択してください。"
 
@@ -18573,9 +18564,6 @@ msgstr "ターンが失敗しました"
 
 msgid "The very beginning"
 msgstr "最初"
-
-msgid "The workspace and the environment are in different organizations"
-msgstr "ワークスペースと環境が別の組織に属しています"
 
 msgid "The workspace is not ready yet. Try again."
 msgstr "ワークスペースの準備がまだできていません。もう一度お試しください。"

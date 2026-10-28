@@ -12502,9 +12502,6 @@ msgstr "Online Now"
 msgid "Only {organizationName} admins can invite new people"
 msgstr "Only {organizationName} admins can invite new people"
 
-msgid "Only a ready workspace can become an environment"
-msgstr "Only a ready workspace can become an environment"
-
 msgid "Only an organization owner can change the plan. Ask yours to upgrade."
 msgstr "Only an organization owner can change the plan. Ask yours to upgrade."
 
@@ -12588,9 +12585,6 @@ msgstr "Only the owner or an organization owner can delete this automation"
 
 msgid "Only the people listed above can open it"
 msgstr "Only the people listed above can open it"
-
-msgid "Only the person who created this environment can make it personal"
-msgstr "Only the person who created this environment can make it personal"
 
 msgid "Only the person who created this page can change it"
 msgstr "Only the person who created this page can change it"
@@ -18324,9 +18318,6 @@ msgstr "The dispatcher appears"
 msgid "The endpoint must use https."
 msgstr "The endpoint must use https."
 
-msgid "The environment changed while this workspace was being saved; run it again"
-msgstr "The environment changed while this workspace was being saved; run it again"
-
 msgid "The environment this automation starts cloud workspaces from was archived or has no repositories. Pick another environment in the automation's settings."
 msgstr "The environment this automation starts cloud workspaces from was archived or has no repositories. Pick another environment in the automation's settings."
 
@@ -18573,9 +18564,6 @@ msgstr "The turn failed"
 
 msgid "The very beginning"
 msgstr "The very beginning"
-
-msgid "The workspace and the environment are in different organizations"
-msgstr "The workspace and the environment are in different organizations"
 
 msgid "The workspace is not ready yet. Try again."
 msgstr "The workspace is not ready yet. Try again."

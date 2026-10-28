@@ -12502,9 +12502,6 @@ msgstr "En línea ahora"
 msgid "Only {organizationName} admins can invite new people"
 msgstr "Solo los administradores de {organizationName} pueden invitar a personas nuevas"
 
-msgid "Only a ready workspace can become an environment"
-msgstr "Solo un espacio de trabajo listo puede convertirse en un entorno"
-
 msgid "Only an organization owner can change the plan. Ask yours to upgrade."
 msgstr "Solo un propietario de la organización puede cambiar el plan. Pídele al tuyo que actualice."
 
@@ -12588,9 +12585,6 @@ msgstr "Solo el propietario o un propietario de la organización puede eliminar 
 
 msgid "Only the people listed above can open it"
 msgstr "Solo las personas indicadas arriba pueden abrirlo"
-
-msgid "Only the person who created this environment can make it personal"
-msgstr "Solo la persona que creó este entorno puede hacerlo personal"
 
 msgid "Only the person who created this page can change it"
 msgstr "Solo la persona que creó esta página puede cambiarla"
@@ -18324,9 +18318,6 @@ msgstr "Aparece el despachador"
 msgid "The endpoint must use https."
 msgstr "El endpoint debe usar https."
 
-msgid "The environment changed while this workspace was being saved; run it again"
-msgstr "El entorno cambió mientras se guardaba este espacio de trabajo; vuelve a ejecutarlo"
-
 msgid "The environment this automation starts cloud workspaces from was archived or has no repositories. Pick another environment in the automation's settings."
 msgstr "El entorno desde el que esta automatización inicia espacios de trabajo en la nube se archivó o no tiene repositorios. Elige otro entorno en la configuración de la automatización."
 
@@ -18573,9 +18564,6 @@ msgstr "El turno falló"
 
 msgid "The very beginning"
 msgstr "El principio"
-
-msgid "The workspace and the environment are in different organizations"
-msgstr "El espacio de trabajo y el entorno pertenecen a organizaciones distintas"
 
 msgid "The workspace is not ready yet. Try again."
 msgstr "El espacio de trabajo aún no está listo. Inténtalo de nuevo."

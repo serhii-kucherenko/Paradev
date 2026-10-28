@@ -12502,9 +12502,6 @@ msgstr "目前線上"
 msgid "Only {organizationName} admins can invite new people"
 msgstr "只有 {organizationName} 的管理員可以邀請新成員"
 
-msgid "Only a ready workspace can become an environment"
-msgstr "只有就緒的工作區才能成為環境"
-
 msgid "Only an organization owner can change the plan. Ask yours to upgrade."
 msgstr "只有組織擁有者才能變更方案，請聯絡擁有者升級。"
 
@@ -12588,9 +12585,6 @@ msgstr "只有擁有者或組織擁有者能刪除這個自動化"
 
 msgid "Only the people listed above can open it"
 msgstr "只有上方列出的人可以開啟"
-
-msgid "Only the person who created this environment can make it personal"
-msgstr "只有建立此環境的人才能將其設為個人環境"
 
 msgid "Only the person who created this page can change it"
 msgstr "只有建立此頁面的人才能修改它"
@@ -18324,9 +18318,6 @@ msgstr "排程員出現"
 msgid "The endpoint must use https."
 msgstr "端點必須使用 https。"
 
-msgid "The environment changed while this workspace was being saved; run it again"
-msgstr "儲存此工作區時環境已變更；請重新執行"
-
 msgid "The environment this automation starts cloud workspaces from was archived or has no repositories. Pick another environment in the automation's settings."
 msgstr "此自動化用來啟動雲端工作區的環境已被封存或沒有儲存庫。請在自動化的設定中選擇其他環境。"
 
@@ -18573,9 +18564,6 @@ msgstr "本輪失敗"
 
 msgid "The very beginning"
 msgstr "最開始"
-
-msgid "The workspace and the environment are in different organizations"
-msgstr "工作區與環境屬於不同的組織"
 
 msgid "The workspace is not ready yet. Try again."
 msgstr "工作區尚未就緒。請重試。"

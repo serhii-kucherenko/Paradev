@@ -12502,9 +12502,6 @@ msgstr "Nu online"
 msgid "Only {organizationName} admins can invite new people"
 msgstr "Alleen beheerders van {organizationName} kunnen nieuwe personen uitnodigen"
 
-msgid "Only a ready workspace can become an environment"
-msgstr "Alleen een gereedstaande werkruimte kan een omgeving worden"
-
 msgid "Only an organization owner can change the plan. Ask yours to upgrade."
 msgstr "Alleen een eigenaar van de organisatie kan het plan wijzigen. Vraag de jouwe om te upgraden."
 
@@ -12588,9 +12585,6 @@ msgstr "Alleen de eigenaar of een organisatie-eigenaar kan deze automatisering v
 
 msgid "Only the people listed above can open it"
 msgstr "Alleen de mensen hierboven kunnen het openen"
-
-msgid "Only the person who created this environment can make it personal"
-msgstr "Alleen de persoon die deze omgeving heeft gemaakt, kan haar persoonlijk maken"
 
 msgid "Only the person who created this page can change it"
 msgstr "Alleen degene die deze pagina heeft gemaakt kan hem wijzigen"
@@ -18324,9 +18318,6 @@ msgstr "De dispatcher verschijnt"
 msgid "The endpoint must use https."
 msgstr "Het endpoint moet https gebruiken."
 
-msgid "The environment changed while this workspace was being saved; run it again"
-msgstr "De omgeving is gewijzigd terwijl deze werkruimte werd opgeslagen; voer het opnieuw uit"
-
 msgid "The environment this automation starts cloud workspaces from was archived or has no repositories. Pick another environment in the automation's settings."
 msgstr "De omgeving waaruit deze automatisering cloudwerkruimtes start, is gearchiveerd of heeft geen repository's. Kies een andere omgeving in de instellingen van de automatisering."
 
@@ -18573,9 +18564,6 @@ msgstr "De beurt is mislukt"
 
 msgid "The very beginning"
 msgstr "Het allereerste begin"
-
-msgid "The workspace and the environment are in different organizations"
-msgstr "De werkruimte en de omgeving horen bij verschillende organisaties"
 
 msgid "The workspace is not ready yet. Try again."
 msgstr "De werkruimte is nog niet klaar. Probeer het opnieuw."

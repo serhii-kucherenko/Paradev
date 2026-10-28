@@ -12502,9 +12502,6 @@ msgstr "Сейчас в сети"
 msgid "Only {organizationName} admins can invite new people"
 msgstr "Приглашать новых людей могут только администраторы {organizationName}"
 
-msgid "Only a ready workspace can become an environment"
-msgstr "Окружением может стать только готовая рабочая область"
-
 msgid "Only an organization owner can change the plan. Ask yours to upgrade."
 msgstr "Менять тариф может только владелец организации. Попросите его перейти на Pro."
 
@@ -12588,9 +12585,6 @@ msgstr "Удалить эту автоматизацию может только
 
 msgid "Only the people listed above can open it"
 msgstr "Открыть могут только люди из списка выше"
-
-msgid "Only the person who created this environment can make it personal"
-msgstr "Сделать это окружение личным может только тот, кто его создал"
 
 msgid "Only the person who created this page can change it"
 msgstr "Изменить эту страницу может только тот, кто её создал"
@@ -18324,9 +18318,6 @@ msgstr "Появляется диспетчер"
 msgid "The endpoint must use https."
 msgstr "Конечная точка должна использовать https."
 
-msgid "The environment changed while this workspace was being saved; run it again"
-msgstr "Окружение изменилось во время сохранения этой рабочей области; запустите ещё раз"
-
 msgid "The environment this automation starts cloud workspaces from was archived or has no repositories. Pick another environment in the automation's settings."
 msgstr "Окружение, из которого эта автоматизация запускает облачные рабочие области, архивировано или не содержит репозиториев. Выберите другое окружение в настройках автоматизации."
 
@@ -18573,9 +18564,6 @@ msgstr "Ход завершился ошибкой"
 
 msgid "The very beginning"
 msgstr "Самое начало"
-
-msgid "The workspace and the environment are in different organizations"
-msgstr "Рабочая область и окружение относятся к разным организациям"
 
 msgid "The workspace is not ready yet. Try again."
 msgstr "Рабочая область ещё не готова. Повторите."

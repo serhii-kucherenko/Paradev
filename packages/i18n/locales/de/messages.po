@@ -12502,9 +12502,6 @@ msgstr "Jetzt online"
 msgid "Only {organizationName} admins can invite new people"
 msgstr "Nur Admins von {organizationName} können neue Personen einladen"
 
-msgid "Only a ready workspace can become an environment"
-msgstr "Nur ein bereiter Arbeitsbereich kann zu einer Umgebung werden"
-
 msgid "Only an organization owner can change the plan. Ask yours to upgrade."
 msgstr "Nur ein Inhaber der Organisation kann den Tarif ändern. Bitte deinen Inhaber um das Upgrade."
 
@@ -12588,9 +12585,6 @@ msgstr "Nur der Eigentümer oder ein Organisations-Inhaber kann diese Automatisi
 
 msgid "Only the people listed above can open it"
 msgstr "Nur die oben aufgeführten Personen können es öffnen"
-
-msgid "Only the person who created this environment can make it personal"
-msgstr "Nur die Person, die diese Umgebung erstellt hat, kann sie persönlich machen"
 
 msgid "Only the person who created this page can change it"
 msgstr "Nur wer diese Seite erstellt hat, kann sie ändern"
@@ -18324,9 +18318,6 @@ msgstr "Der Disponent tritt auf"
 msgid "The endpoint must use https."
 msgstr "Der Endpunkt muss https verwenden."
 
-msgid "The environment changed while this workspace was being saved; run it again"
-msgstr "Die Umgebung hat sich geändert, während dieser Arbeitsbereich gespeichert wurde; führe es erneut aus"
-
 msgid "The environment this automation starts cloud workspaces from was archived or has no repositories. Pick another environment in the automation's settings."
 msgstr "Die Umgebung, aus der diese Automatisierung Cloud-Arbeitsbereiche startet, wurde archiviert oder hat keine Repositories. Wähle in den Einstellungen der Automatisierung eine andere Umgebung."
 
@@ -18573,9 +18564,6 @@ msgstr "Der Durchlauf ist fehlgeschlagen"
 
 msgid "The very beginning"
 msgstr "Ganz an den Anfang"
-
-msgid "The workspace and the environment are in different organizations"
-msgstr "Der Arbeitsbereich und die Umgebung gehören zu verschiedenen Organisationen"
 
 msgid "The workspace is not ready yet. Try again."
 msgstr "Der Arbeitsbereich ist noch nicht bereit. Versuche es erneut."

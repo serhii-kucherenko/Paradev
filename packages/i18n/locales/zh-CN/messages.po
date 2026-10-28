@@ -12502,9 +12502,6 @@ msgstr "当前在线"
 msgid "Only {organizationName} admins can invite new people"
 msgstr "只有 {organizationName} 的管理员可以邀请新成员"
 
-msgid "Only a ready workspace can become an environment"
-msgstr "只有就绪的工作区才能成为环境"
-
 msgid "Only an organization owner can change the plan. Ask yours to upgrade."
 msgstr "只有组织所有者才能更改方案，请联系所有者升级。"
 
@@ -12588,9 +12585,6 @@ msgstr "只有所有者或组织所有者能删除这个自动化"
 
 msgid "Only the people listed above can open it"
 msgstr "只有上面列出的人可以打开"
-
-msgid "Only the person who created this environment can make it personal"
-msgstr "只有创建此环境的人才能将其设为个人环境"
 
 msgid "Only the person who created this page can change it"
 msgstr "只有创建此页面的人才能修改它"
@@ -18324,9 +18318,6 @@ msgstr "调度员出现"
 msgid "The endpoint must use https."
 msgstr "端点必须使用 https。"
 
-msgid "The environment changed while this workspace was being saved; run it again"
-msgstr "保存此工作区时环境已发生变化；请重新运行"
-
 msgid "The environment this automation starts cloud workspaces from was archived or has no repositories. Pick another environment in the automation's settings."
 msgstr "该自动化用于启动云端工作区的环境已被归档或没有仓库。请在自动化的设置中选择其他环境。"
 
@@ -18573,9 +18564,6 @@ msgstr "本轮失败"
 
 msgid "The very beginning"
 msgstr "最开始"
-
-msgid "The workspace and the environment are in different organizations"
-msgstr "工作区和环境属于不同的组织"
 
 msgid "The workspace is not ready yet. Try again."
 msgstr "工作区尚未就绪。请重试。"

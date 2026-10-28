@@ -12502,9 +12502,6 @@ msgstr "En ligne maintenant"
 msgid "Only {organizationName} admins can invite new people"
 msgstr "Seuls les administrateurs de {organizationName} peuvent inviter de nouvelles personnes"
 
-msgid "Only a ready workspace can become an environment"
-msgstr "Seul un espace de travail prêt peut devenir un environnement"
-
 msgid "Only an organization owner can change the plan. Ask yours to upgrade."
 msgstr "Seul un propriétaire de l'organisation peut changer de forfait. Demandez au vôtre de passer à Pro."
 
@@ -12588,9 +12585,6 @@ msgstr "Seul le propriétaire ou un propriétaire de l'organisation peut supprim
 
 msgid "Only the people listed above can open it"
 msgstr "Seules les personnes listées ci-dessus peuvent l'ouvrir"
-
-msgid "Only the person who created this environment can make it personal"
-msgstr "Seule la personne qui a créé cet environnement peut le rendre personnel"
 
 msgid "Only the person who created this page can change it"
 msgstr "Seule la personne qui a créé cette page peut la modifier"
@@ -18324,9 +18318,6 @@ msgstr "Le répartiteur apparaît"
 msgid "The endpoint must use https."
 msgstr "Le point de terminaison doit utiliser https."
 
-msgid "The environment changed while this workspace was being saved; run it again"
-msgstr "L'environnement a changé pendant l'enregistrement de cet espace de travail ; relancez l'opération"
-
 msgid "The environment this automation starts cloud workspaces from was archived or has no repositories. Pick another environment in the automation's settings."
 msgstr "L'environnement à partir duquel cette automatisation démarre des espaces de travail cloud a été archivé ou ne contient aucun dépôt. Choisissez un autre environnement dans les paramètres de l'automatisation."
 
@@ -18573,9 +18564,6 @@ msgstr "Le tour a échoué"
 
 msgid "The very beginning"
 msgstr "Tout au début"
-
-msgid "The workspace and the environment are in different organizations"
-msgstr "L'espace de travail et l'environnement appartiennent à des organisations différentes"
 
 msgid "The workspace is not ready yet. Try again."
 msgstr "L'espace de travail n'est pas encore prêt. Réessayez."

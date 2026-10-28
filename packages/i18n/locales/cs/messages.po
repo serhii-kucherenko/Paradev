@@ -12502,9 +12502,6 @@ msgstr "Právě online"
 msgid "Only {organizationName} admins can invite new people"
 msgstr "Nové lidi mohou zvát jen správci {organizationName}"
 
-msgid "Only a ready workspace can become an environment"
-msgstr "Prostředím se může stát jen připravený pracovní prostor"
-
 msgid "Only an organization owner can change the plan. Ask yours to upgrade."
 msgstr "Tarif může změnit jen vlastník organizace. Požádejte ho o přechod na Pro."
 
@@ -12588,9 +12585,6 @@ msgstr "Tuto automatizaci může smazat jen vlastník nebo vlastník organizace"
 
 msgid "Only the people listed above can open it"
 msgstr "Otevřít ho mohou jen lidé uvedení výše"
-
-msgid "Only the person who created this environment can make it personal"
-msgstr "Osobním může toto prostředí udělat jen ten, kdo ho vytvořil"
 
 msgid "Only the person who created this page can change it"
 msgstr "Tuto stránku může měnit jen ten, kdo ji vytvořil"
@@ -18324,9 +18318,6 @@ msgstr "Nastupuje dispečer"
 msgid "The endpoint must use https."
 msgstr "Koncový bod musí používat https."
 
-msgid "The environment changed while this workspace was being saved; run it again"
-msgstr "Prostředí se změnilo během ukládání tohoto pracovního prostoru; spusťte to znovu"
-
 msgid "The environment this automation starts cloud workspaces from was archived or has no repositories. Pick another environment in the automation's settings."
 msgstr "Prostředí, ze kterého tato automatizace spouští cloudové pracovní prostory, bylo archivováno nebo nemá žádné repozitáře. V nastavení automatizace vyberte jiné prostředí."
 
@@ -18573,9 +18564,6 @@ msgstr "Tah selhal"
 
 msgid "The very beginning"
 msgstr "Úplný začátek"
-
-msgid "The workspace and the environment are in different organizations"
-msgstr "Pracovní prostor a prostředí patří do různých organizací"
 
 msgid "The workspace is not ready yet. Try again."
 msgstr "Pracovní prostor ještě není připravený. Zkuste to znovu."

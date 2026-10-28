@@ -12502,9 +12502,6 @@ msgstr "Đang trực tuyến"
 msgid "Only {organizationName} admins can invite new people"
 msgstr "Chỉ quản trị viên của {organizationName} mới có thể mời người mới"
 
-msgid "Only a ready workspace can become an environment"
-msgstr "Chỉ workspace đã sẵn sàng mới có thể trở thành environment"
-
 msgid "Only an organization owner can change the plan. Ask yours to upgrade."
 msgstr "Chỉ chủ sở hữu tổ chức mới đổi được gói. Hãy nhờ chủ sở hữu nâng cấp."
 
@@ -12588,9 +12585,6 @@ msgstr "Chỉ chủ sở hữu hoặc chủ sở hữu tổ chức mới xóa đ
 
 msgid "Only the people listed above can open it"
 msgstr "Chỉ những người có trong danh sách trên mới có thể mở"
-
-msgid "Only the person who created this environment can make it personal"
-msgstr "Chỉ người đã tạo environment này mới có thể chuyển nó thành cá nhân"
 
 msgid "Only the person who created this page can change it"
 msgstr "Chỉ người tạo trang này mới thay đổi được"
@@ -18324,9 +18318,6 @@ msgstr "Người điều phối xuất hiện"
 msgid "The endpoint must use https."
 msgstr "Endpoint phải dùng https."
 
-msgid "The environment changed while this workspace was being saved; run it again"
-msgstr "Environment đã thay đổi trong khi workspace này đang được lưu; hãy chạy lại"
-
 msgid "The environment this automation starts cloud workspaces from was archived or has no repositories. Pick another environment in the automation's settings."
 msgstr "Environment mà tự động hóa này dùng để khởi động workspace cloud đã bị lưu trữ hoặc không có repository nào. Hãy chọn một environment khác trong cài đặt của tự động hóa."
 
@@ -18573,9 +18564,6 @@ msgstr "Lượt thất bại"
 
 msgid "The very beginning"
 msgstr "Từ đầu"
-
-msgid "The workspace and the environment are in different organizations"
-msgstr "Workspace và environment thuộc các tổ chức khác nhau"
 
 msgid "The workspace is not ready yet. Try again."
 msgstr "Workspace chưa sẵn sàng. Hãy thử lại."
